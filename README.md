@@ -13,7 +13,7 @@ java -Dspring.datasource.url=jdbc:mysql://localhost:3306/app -jar artifacts/aqa-
 ```
 для PostgreSQL:
 ```
-java -Dspring.datasource.url=jdbc:postgresql://localhost:5433/app -jar artifacts/aqa-shop.jar
+java -Dspring.datasource.url=jdbc:postgresql://localhost:5432/app -jar artifacts/aqa-shop.jar
 ```
 4. Запустить авто-тесты командой 
    
