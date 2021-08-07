@@ -23,7 +23,7 @@ gradlew clean test -Durl=jdbc:mysql://localhost:3306/app
 ```
 для PostgreSQL:
 ```
-gradlew clean test -Durl=jdbc:postgresql://localhost:5433/app
+gradlew clean test -Durl=jdbc:postgresql://localhost:5432/app
 ```
 
 5.Сгенерировать отчеты
